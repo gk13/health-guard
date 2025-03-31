@@ -1,0 +1,3 @@
+venv/
+*.xml
+*.csv # Exclude large raw files
