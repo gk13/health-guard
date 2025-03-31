@@ -4,8 +4,8 @@ from datasets import load_from_disk
 import os
 
 # Step 1: Load the preprocessed datasets
-train_dataset = load_from_disk("../data/processed/train")
-valid_dataset = load_from_disk("../data/processed/valid")
+train_dataset = load_from_disk("../data/processed/splits/train")
+valid_dataset = load_from_disk("../data/processed/splits/valid")
 print(f"Loaded {len(train_dataset)} training samples and {len(valid_dataset)} validation samples.")
 
 # Step 2: Load the T5 model and tokenizer
