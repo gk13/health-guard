@@ -1,5 +1,5 @@
 # health-guard
-ML system that retrieves treatments for diseases using the MedQuAD dataset, with infrastructure automation for training and deployment. The system will validate treatment claims using Convergence's Proxy-lite.
+ML system that retrieves treatments for diseases using the MedQuAD dataset, with infrastructure automation for training and deployment.
 
 **Dataset**: MedQuAD (47,457 Q&A pairs from Kaggle)
 
