@@ -1,5 +1,5 @@
 # health-guard
-ML system that retrieves treatments for diseases using the MedQuAD dataset, with infrastructure automation for training and deployment.
+ML system that retrieves treatments for diseases using the MedQuAD dataset, run on NVIDIA Tesla T4 for training + inference.
 
 **Dataset**: MedQuAD (47,457 Q&A pairs from Kaggle)
 
